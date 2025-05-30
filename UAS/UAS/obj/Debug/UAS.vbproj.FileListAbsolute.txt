@@ -1,0 +1,72 @@
+C:\Users\Arifudin\AppData\Local\Temporary Projects\UAS\bin\Debug\UAS.exe.config
+C:\Users\Arifudin\AppData\Local\Temporary Projects\UAS\bin\Debug\UAS.exe
+C:\Users\Arifudin\AppData\Local\Temporary Projects\UAS\bin\Debug\UAS.pdb
+C:\Users\Arifudin\AppData\Local\Temporary Projects\UAS\bin\Debug\UAS.xml
+C:\Users\Arifudin\AppData\Local\Temporary Projects\UAS\obj\Debug\UAS.Form1.resources
+C:\Users\Arifudin\AppData\Local\Temporary Projects\UAS\obj\Debug\UAS.Login.resources
+C:\Users\Arifudin\AppData\Local\Temporary Projects\UAS\obj\Debug\UAS.Resources.resources
+C:\Users\Arifudin\AppData\Local\Temporary Projects\UAS\obj\Debug\UAS.vbproj.GenerateResource.Cache
+C:\Users\Arifudin\AppData\Local\Temporary Projects\UAS\obj\Debug\UAS.exe
+C:\Users\Arifudin\AppData\Local\Temporary Projects\UAS\obj\Debug\UAS.xml
+C:\Users\Arifudin\AppData\Local\Temporary Projects\UAS\obj\Debug\UAS.pdb
+C:\Users\Arifudin\Documents\Visual Studio 2012\Projects\UAS\UAS\bin\Debug\UAS.exe.config
+C:\Users\Arifudin\Documents\Visual Studio 2012\Projects\UAS\UAS\obj\Debug\UAS.exe
+C:\Users\Arifudin\Documents\Visual Studio 2012\Projects\UAS\UAS\obj\Debug\UAS.xml
+C:\Users\Arifudin\Documents\Visual Studio 2012\Projects\UAS\UAS\obj\Debug\UAS.pdb
+C:\Users\Arifudin\Documents\Visual Studio 2012\Projects\UAS\UAS\bin\Debug\UAS.exe
+C:\Users\Arifudin\Documents\Visual Studio 2012\Projects\UAS\UAS\bin\Debug\UAS.pdb
+C:\Users\Arifudin\Documents\Visual Studio 2012\Projects\UAS\UAS\bin\Debug\UAS.xml
+C:\Users\Arifudin\Documents\Visual Studio 2012\Projects\UAS\UAS\obj\Debug\UAS.Login.resources
+C:\Users\Arifudin\Documents\Visual Studio 2012\Projects\UAS\UAS\obj\Debug\UAS.Resources.resources
+C:\Users\Arifudin\Documents\Visual Studio 2012\Projects\UAS\UAS\obj\Debug\UAS.vbproj.GenerateResource.Cache
+C:\Users\Arifudin\Documents\Visual Studio 2012\Projects\UAS\UAS\obj\Debug\UAS.Menu.resources
+C:\Users\Arifudin\Documents\Visual Studio 2012\Projects\UAS\UAS\obj\Debug\UAS.Tentang.resources
+C:\Users\Arifudin\Documents\Visual Studio 2012\Projects\UAS\UAS\obj\Debug\UAS.Data_Barang.resources
+C:\Users\Arifudin\Documents\Visual Studio 2012\Projects\UAS\UAS\obj\Debug\UAS.Data_Pembeli.resources
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS\UAS\bin\Debug\UAS.exe.config
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS\UAS\obj\Debug\UAS.exe
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS\UAS\obj\Debug\UAS.xml
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS\UAS\obj\Debug\UAS.pdb
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS\UAS\bin\Debug\UAS.exe
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS\UAS\bin\Debug\UAS.pdb
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS\UAS\bin\Debug\UAS.xml
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS\UAS\obj\Debug\UAS.Data_Barang.resources
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS\UAS\obj\Debug\UAS.Data_Pembeli.resources
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS\UAS\obj\Debug\UAS.Menu.resources
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS\UAS\obj\Debug\UAS.Login.resources
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS\UAS\obj\Debug\UAS.Resources.resources
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS\UAS\obj\Debug\UAS.Tentang.resources
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS\UAS\obj\Debug\UAS.vbproj.GenerateResource.Cache
+C:\Users\ACER\Downloads\Documents\UAS\UAS\bin\Debug\UAS.exe.config
+C:\Users\ACER\Downloads\Documents\UAS\UAS\obj\Debug\UAS.exe
+C:\Users\ACER\Downloads\Documents\UAS\UAS\obj\Debug\UAS.xml
+C:\Users\ACER\Downloads\Documents\UAS\UAS\obj\Debug\UAS.pdb
+C:\Users\ACER\Downloads\Documents\UAS\UAS\bin\Debug\UAS.exe
+C:\Users\ACER\Downloads\Documents\UAS\UAS\bin\Debug\UAS.pdb
+C:\Users\ACER\Downloads\Documents\UAS\UAS\bin\Debug\UAS.xml
+C:\Users\ACER\Downloads\Documents\UAS\UAS\obj\Debug\UAS.Data_Barang.resources
+C:\Users\ACER\Downloads\Documents\UAS\UAS\obj\Debug\UAS.Data_Pembeli.resources
+C:\Users\ACER\Downloads\Documents\UAS\UAS\obj\Debug\UAS.Menu.resources
+C:\Users\ACER\Downloads\Documents\UAS\UAS\obj\Debug\UAS.Login.resources
+C:\Users\ACER\Downloads\Documents\UAS\UAS\obj\Debug\UAS.Resources.resources
+C:\Users\ACER\Downloads\Documents\UAS\UAS\obj\Debug\UAS.Tentang.resources
+C:\Users\ACER\Downloads\Documents\UAS\UAS\obj\Debug\UAS.vbproj.GenerateResource.Cache
+C:\Users\ACER\Downloads\Documents\UAS\UAS\obj\Debug\UAS.Data_Laptop.resources
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS 2\UAS\UAS\bin\Debug\UAS.exe.config
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS 2\UAS\UAS\obj\Debug\UAS.exe
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS 2\UAS\UAS\obj\Debug\UAS.xml
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS 2\UAS\UAS\obj\Debug\UAS.pdb
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS 2\UAS\UAS\bin\Debug\UAS.exe
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS 2\UAS\UAS\bin\Debug\UAS.pdb
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS 2\UAS\UAS\bin\Debug\UAS.xml
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS 2\UAS\UAS\obj\Debug\UAS.Data_Barang.resources
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS 2\UAS\UAS\obj\Debug\UAS.Data_Laptop.resources
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS 2\UAS\UAS\obj\Debug\UAS.Data_Pembeli.resources
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS 2\UAS\UAS\obj\Debug\UAS.Menu.resources
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS 2\UAS\UAS\obj\Debug\UAS.Login.resources
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS 2\UAS\UAS\obj\Debug\UAS.Resources.resources
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS 2\UAS\UAS\obj\Debug\UAS.Tentang.resources
+D:\FOLDER KULIAH\SEMESTER 4\Pemrograman Visual\UAS 2\UAS\UAS\obj\Debug\UAS.vbproj.GenerateResource.Cache
+C:\Users\Arifudin\Documents\Visual Studio 2012\Projects\UAS\UAS\obj\Debug\UAS.Data_Laptop.resources
+C:\Users\Arifudin\Documents\Visual Studio 2012\Projects\UAS\UAS\obj\Debug\UAS.vbprojResolveAssemblyReference.cache
+C:\Users\Arifudin\Documents\Visual Studio 2012\Projects\UAS\UAS\obj\Debug\UAS.Laporan.resources
